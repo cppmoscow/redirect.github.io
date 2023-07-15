@@ -1,1 +1,1 @@
-# cppmoscow_redirect.github.io
+# redirect.github.io
